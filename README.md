@@ -22,8 +22,7 @@ A few things I hold myself to on every project:
   offline, so recordings never leave the phone.
 - **[manusiawi](https://github.com/ahmadafif5321/manusiawi)** — a Claude skill
   that strips AI writing patterns out of Malaysian Bahasa Melayu text. Covers
-  56 BM/EN patterns and also catches Indonesian-language intrusion, which most
-  de-AI tools miss entirely.
+  56 BM/EN patterns and also catches Indonesian-language intrusion.
 - **[GoogleMapScrapper](https://github.com/ahmadafif5321/GoogleMapScrapper)** —
   a 24/7 Google Maps review collector. Hardened with resource caps and DuckDB
   incremental merge after it OOM'd on me in production.
